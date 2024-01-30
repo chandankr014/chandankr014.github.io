@@ -143,6 +143,8 @@
 										<li><a href="elements.html">Projects</a></li>
 										<li><a href="#">Blogs</a></li>
 										<li><a href="#">Contact</a></li>
+										<br>
+										<li><a href="index_yadgir.html">Yadgir Map</a></li>
 									</ul>
 								</nav>
 
